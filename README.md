@@ -22,9 +22,13 @@ This board requires manual switching for different modes:
 | **Upload to ESP8266** | OFF | OFF | OFF | OFF | ON | ON | ON | OFF |
 | **Run Mode** | ON | ON | OFF | OFF | OFF | OFF | OFF | OFF |
 
+## 📸 Photos
+![Blynk Notification](https://github.com/Sanavimjagtap/IoT-Fire-Smoke-Alarm/blob/main/IMG_1169.jpeg)
+![Actual Setup](https://github.com/Sanavimjagtap/IoT-Fire-Smoke-Alarm/blob/main/ae4d4d61-77bf-487e-924a-3b4db2058103.jpeg))
+![email](https://github.com/Sanavimjagtap/IoT-Fire-Smoke-Alarm/blob/main/IMG_1170.jpeg)
+
 ## 🧠 Code
 Check out Arduino code [`here`](https://github.com/Sanavimjagtap/IoT-Fire-Smoke-Alarm/commit/05042ba9d7b138275774e127c7add6437f671cbc) and ESP8266 code [`here`](https://github.com/Sanavimjagtap/IoT-Fire-Smoke-Alarm/blob/main/ESP8266.ino)
-
 
 ## 💻 Software Setup
 1. Clone this repository.
